@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>category on Jacob Veal</title>
+    <link>https://jacobv90.github.io/categories/category/</link>
+    <description>Recent content in category on Jacob Veal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Apr 2021 19:34:44 -0500</lastBuildDate><atom:link href="https://jacobv90.github.io/categories/category/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://jacobv90.github.io/page/about/</link>
+      <pubDate>Thu, 15 Apr 2021 19:34:44 -0500</pubDate>
+      
+      <guid>https://jacobv90.github.io/page/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
