@@ -87,7 +87,3 @@ h2 {
   letter-spacing: .05em;
 /*  font-size: 5em; /* 40px/16=2.5em */
 }
-
-#cover {
-  filter: blur(0px);
-}
